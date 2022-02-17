@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-My first homework on GoIT course
+My first project with GoIT. (HTML+CSS)
